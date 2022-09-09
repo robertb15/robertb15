@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @robertb15
 - 👀 I’m interested in Cybersecurit and Web-Dev.
-- 🌱 I’m currently learning Linux, Python, C, and C++
+- 🌱 I’m currently learning shell scripting, Python, C, and C++
 - 💞️ I’m not sure what I looking to collaborate on.
 - 📫 How to reach me robertob15am@gmail.com
 
